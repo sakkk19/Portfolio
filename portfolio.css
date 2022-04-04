@@ -1,0 +1,36 @@
+*{
+    margin-top: -45;
+    margin-bottom: 69;
+    margin-left: -40;
+    margin-right: 30;
+    padding: 90;  
+    /* margin-bottom: -25; */
+ } 
+ body {
+     background-color:#123524;
+ }
+ .title {
+    font-size: 35pt;
+    color:#a6c5b8;
+    font-family: asimovsans, sans-serif;
+    font-weight: 400;
+    letter-spacing: 42.9pt;
+ }
+.project1 {
+    font-size: 35pt;
+    color:#a6c5b8;
+    letter-spacing: 15pt;
+    bottom: -60;
+    left: 96;
+    position: absolute;
+    line-height: 2;
+    font-family: roboto, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+
+
+@media screen and (min-width: 800px) {
+}
